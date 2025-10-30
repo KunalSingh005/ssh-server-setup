@@ -32,7 +32,11 @@ This project documents the successful setup and configuration of a remote Linux 
 * **Solution:** Allocated an **Elastic IP** from AWS and associated it with my EC2 instance.
 * **Final Step:** Updated the `HostName` in my `~/.ssh/config` file to this permanent Elastic IP. My alias now works permanently.
 
+## Project Source
 
+This project was completed as part of the backend developer roadmap from roadmap.sh.
+
+**Project Page URL:** [https://roadmap.sh/projects/ssh-remote-server-setup](https://roadmap.sh/projects/ssh-remote-server-setup)
 
 
 
